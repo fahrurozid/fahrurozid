@@ -1,7 +1,6 @@
 - 🕵️‍♂️ I’m currently learning Digital Forensics and Reverse Engineering.
 - 🔍 I’m looking to collaborate on Cyber Security projects.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/la-ode-fahru-rozid-2857a927b/) or email me at fahrurozid0@gmail.com.
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: i love mango sticky rice 
 
 <!---
