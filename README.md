@@ -40,18 +40,15 @@ I'm always looking to grow, collaborate, and challenge myself in the ever-evolvi
 
 ### 📫 Let's Connect!
 
-### 📫 Let's Connect!
-
-<p align="left">
+- **LinkedIn:**  
   <a href="https://www.linkedin.com/in/la-ode-fahru-rozid-2857a927b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
+- **Medium Blog:**  
   <a href="https://medium.com/@fahrurozid0" target="_blank">
     <img src="https://img.shields.io/badge/Medium-Blog-black?logo=medium&logoColor=white" alt="Medium" />
   </a>
-</p>
-
-
 ---
 
 ### 🧠 Quote 
