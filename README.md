@@ -9,9 +9,7 @@
 
 ### 👨‍💻 About Me
 
-### 👨‍💻 About Me
-
-Hi, I'm Fahru Rozid — a passionate learner and enthusiast in the field of Cyber Security. I'm currently focusing on **Red Teaming** and **Offensive Security.**
+Hi, I'm Rozid — a passionate learner and enthusiast in the field of Cyber Security. I'm currently focusing on **Red Teaming** and **Offensive Security.**
 
 I enjoy participating in Capture The Flag (CTF) challenges and building hands-on experience through exploit development and adversary simulation. 
 
