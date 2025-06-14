@@ -2,7 +2,7 @@
 
 <p align="center">
   🚨 Cyber Security Enthusiast | 🛡️ Offensive Security & Red Teaming Learner<br>
-  🔍 Passionate about exploring the world of exploits, CTFs, and adversary simulation
+<!--   🔍 Passionate about exploring the world of exploits, CTFs, and adversary simulation -->
 </p>
 
 ---
