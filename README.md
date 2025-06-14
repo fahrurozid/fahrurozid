@@ -9,11 +9,14 @@
 
 ### 👨‍💻 About Me
 
-- 🔐 Currently diving deep into **Red Teaming** and **Offensive Security**
-- 🧠 Enjoy breaking into systems ethically to understand how to secure them better
-- 🧪 Always up for Capture The Flag (CTF) challenges and real-world exploit development
-- 📚 Active learner in topics like: privilege escalation, web exploitation, phishing simulation, and more
-- 💡 Interested in **threat emulation**, **post-exploitation**, and **attack automation**
+### 👨‍💻 About Me
+
+Hi, I'm Fahru Rozid — a passionate learner and enthusiast in the field of Cyber Security. I'm currently focusing on **Red Teaming** and **Offensive Security.**
+
+I enjoy participating in Capture The Flag (CTF) challenges and building hands-on experience through exploit development and adversary simulation. 
+
+I'm always looking to grow, collaborate, and challenge myself in the ever-evolving world of cyber security.
+
 
 ---
 
@@ -40,9 +43,8 @@
 
 ### 📫 Let's Connect!
 
-- 💼 LinkedIn: [linkedin.com/in/fahrurozid](https://www.linkedin.com/in/fahrurozid)
-- 💻 Blog (optional if kamu punya blog): `Coming soon...`
-- 📧 Email: `your.email@example.com` *(replace with your real email if you'd like)*
+- 💼 LinkedIn: [https://www.linkedin.com/in/la-ode-fahru-rozid-2857a927b/](https://www.linkedin.com/in/la-ode-fahru-rozid-2857a927b/)
+- 💻 Blog: [https://medium.com/@fahrurozid0](https://medium.com/@fahrurozid0)
 
 ---
 
