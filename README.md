@@ -46,7 +46,7 @@ I'm always looking to grow, collaborate, and challenge myself in the ever-evolvi
 
 ---
 
-### 🧠 Quote I Live By
+### 🧠 Quote 
 > _“The quieter you become, the more you are able to hear.” – Ram Dass_
 
 ---
