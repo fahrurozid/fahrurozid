@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Fahru Rozid 👋</h1>
+<h1 align="center">Hi there, I'm Rozid 👋</h1>
 
 <p align="center">
   🚨 Cyber Security Enthusiast | 🛡️ Offensive Security & Red Teaming Learner<br>
