@@ -35,7 +35,6 @@ I'm always looking to grow, collaborate, and challenge myself in the ever-evolvi
 
 - ✅ Building practical skills in **red teaming operations**
 - ✅ Studying **offensive security techniques** with real labs and simulations
-- ✅ Practicing with platforms like **Hack The Box**, **TryHackMe**, and **VulnHub**
 
 ---
 
