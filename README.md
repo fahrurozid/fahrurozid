@@ -20,13 +20,6 @@
 
 ---
 
-### 📌 Current Focus
-
-- ✅ Building practical skills in **red teaming operations**
-- ✅ Studying **offensive security techniques** with real labs and simulations
-
----
-
 ### 📫 Let's Connect!
 
 - **LinkedIn:**  
