@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Rozid 👋</h1>
 
 <p align="center">
-  🚨 Cyber Security Enthusiast | 🛡️ Offensive Security & Red Teaming Learner<br>
+  🚨 Junior Cyber Security Analyst | 🛡️ Blue Team Learner<br>
 <!--   🔍 Passionate about exploring the world of exploits, CTFs, and adversary simulation -->
 </p>
 
