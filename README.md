@@ -9,7 +9,7 @@
 
 ---
 
-### 🧰 Tools & Technologies
+### Tools & Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-OS-black?logo=linux&logoColor=white" />
@@ -22,24 +22,6 @@
 
 ---
 
-### 📫 Let's Connect!
-
-- **LinkedIn:**  
-  <a href="https://www.linkedin.com/in/la-ode-fahru-rozid-2857a927b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-- **Medium Blog:**  
-  <a href="https://medium.com/@fahrurozid0" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-Blog-black?logo=medium&logoColor=white" alt="Medium" />
-  </a>
----
-
-### 🧠 Quote 
-> _“The quieter you become, the more you are able to hear.” – Ram Dass_
-
----
-
 <p align="center">
-  📍 Always Learning. Always Testing. Always Growing.
+   Always Learning. Always Testing. Always Growing.
 </p>
