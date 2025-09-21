@@ -7,6 +7,7 @@ Exploring and working on hands-on projects in Blue Teaming, network security, an
 🔗 [Porto](https://fahruzid.pages.dev/) | [TryHackMe](https://tryhackme.com/p/fahrurozid0)  
 📧 **Contact:** fahrurozid0@gmail.com  
 
+---
 <p align="center">
    Always Learning. Always Testing. Always Growing.
 </p>
