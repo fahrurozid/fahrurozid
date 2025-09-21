@@ -1,24 +1,11 @@
 <h1 align="center">
-<!--    Hi there, I'm Rozid 👋 -->
+   Computer & Networking Student
 </h1>
 
-<p align="center">
-   Junior Cyber Security Analyst | Blue Team Learner<br>
-<!--   🔍 Passionate about exploring the world of exploits, CTFs, and adversary simulation -->
-</p>
+Exploring and building hands-on projects in **Blue Teaming**, network security, and threat detection to strengthen my defensive security skills.  
 
----
-
-### Tools & Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-OS-black?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp Suite-orange?logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-framework-blue?logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-network scanning-informational?logo=nmap" />
-  <img src="https://img.shields.io/badge/Kali Linux-penetration testing-blueviolet?logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-scripting-yellow?logo=python&logoColor=white" />
-</p>
+🔗 [Porto](https://fahruzid.pages.dev/) | [TryHackMe](https://tryhackme.com/p/fahrurozid0)  
+📧 **Contact:** fahrurozid0@gmail.com  
 
 ---
 
