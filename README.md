@@ -1,4 +1,6 @@
-<h1 align="center">Hi there, I'm Rozid 👋</h1>
+<h1 align="center">
+<!--    Hi there, I'm Rozid 👋 -->
+</h1>
 
 <p align="center">
    Junior Cyber Security Analyst | Blue Team Learner<br>
