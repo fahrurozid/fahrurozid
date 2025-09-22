@@ -4,7 +4,7 @@
 
 Exploring and working on hands-on projects in Blue Teaming, network security, and threat detection to sharpen my defensive security skills.
 
-Visit my [portfolio](https://fahruzid.pages.dev/) for more details.
+Visit my [page](https://fahruzid.pages.dev/) for more details.
 
 🔗 **THM:** [TryHackMe](https://tryhackme.com/p/fahrurozid0)  
 📧 **Contact:** fahrurozid0@gmail.com  
